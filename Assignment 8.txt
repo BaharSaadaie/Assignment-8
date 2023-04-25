@@ -1,0 +1,6 @@
+1- Species: homo sapiens( hg19/GRch 37)
+2- Target gene: MUC2
+3- Rank 1 target sequence and location: GAGGCGAAGTTGTAGTCGCAGGG chr11:1075746
+4- Left Primer coordinates: chr11:1075695-1075717  Primer: GGCAACTTCCACTACAAGACCT	
+   Right Primer coordinates: chr11:1075863-1075885 Primer: AGATGGTGTCATCCTTGATGGT5
+5- If we knock out this gene, the mutant phenotype will change in a way that mucin protein which is found in human mucose is not expressed.
